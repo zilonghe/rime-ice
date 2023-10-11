@@ -90,8 +90,8 @@ date_translator:
   date: date            # 日期： 2022-11-29
   time: time            # 时间： 18:13
   week: week            # 星期： 星期二
-  datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
-  timestamp: timestamp  # 时间戳： 1669716794
+  datetime: dt    # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳： 1669716794
 
 
 # Lua 配置: 降低部分英语单词在候选项的位置
