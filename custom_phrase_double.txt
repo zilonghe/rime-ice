@@ -227,3 +227,8 @@ code	code
 午安北鼻~	wnbb
 495309675@qq.com	qqm
 johnhosimple@gmail.com	ggm
+嘉鸿	jh
+何子龙	hzl
+pipo.marketing.crowd	psmcd
+pipo.marketing.coupon	psmcou
+pipo.marketing.admin	psmad
